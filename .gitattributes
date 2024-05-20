@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.toc linguist-detectable=false
+*.py linguist-detectable=true
+*.ipynb linguist-detectable=true
